@@ -1,0 +1,5 @@
+name = OpenReferral
+description = OpenReferral using AirTable
+core = 7.x
+version = 7.x-1.0-beta1
+configure = admin/config/services/openreferral
